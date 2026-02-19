@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.mallikharjundevops.fun
+REDIS_HOST: redis.mallikharjundevops.fun
+CATALOGUE_HOST: catalogue.mallikharjundevops.fun
+CART_HOST: cart.mallikharjundevops.fun
+USER_HOST: user.mallikharjundevops.fun
+RABBITMQ_HOST: rabbitmq.mallikharjundevops.fun
+MYSQL_HOST: mysql.mallikharjundevops.fun
+SHIPPING_HOST: shipping.mallikharjundevops.fun
+PAYMENT_HOST: payment.mallikharjundevops.fun
